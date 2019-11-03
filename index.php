@@ -5,6 +5,11 @@
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-	<div id='title'>Дасси – Ассистент</div>
+	<div>
+		<img src="imgs/dassi-prosr.png" id='title-img' width="100">
+		<span id='title'>
+			Дасси – Ассистент
+		</span>
+	</div>
 </body>
 </html>
